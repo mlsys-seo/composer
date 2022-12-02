@@ -16,7 +16,7 @@ number of subnetwork. 'Sigma' is the number of total pre-selected subnetworks an
 ### Functional Interface
 
 ```python
-# Apply surgery on the model to swap-in the Fused LayerNorm using the Composer functional API
+# Apply surgery on the model to swap-in the Gyro Dropout using the Composer functional API
 
 import composer.functional as cf
 
